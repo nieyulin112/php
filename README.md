@@ -28,6 +28,9 @@ java和php都是单继承的机制关键字都是extends
 java可以通过.调用方法
 php通过－>调用方法
 
+$this (php)
+this(java)
+
 
 
 
